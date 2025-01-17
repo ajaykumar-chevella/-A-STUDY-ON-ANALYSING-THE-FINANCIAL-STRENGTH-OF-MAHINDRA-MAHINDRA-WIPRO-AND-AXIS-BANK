@@ -1,0 +1,2 @@
+# -A-STUDY-ON-ANALYSING-THE-FINANCIAL-STRENGTH-OF-MAHINDRA-MAHINDRA-WIPRO-AND-AXIS-BANK
+ This project aims to analyze the financial performance of Mahindra and Mahindra, Wipro, and Axis Bank. By reviewing the Profit and Loss Account, Balance Sheet, and Cash Flow Statement, it seeks to provide investors with insights into each company's financial health and strengths, facilitating informed investment decisions.
